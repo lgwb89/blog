@@ -1,10 +1,10 @@
 "use strict"
 
 module.exports = {
-  url: "https://louis.work",
+  url: "https://screentim.es",
   pathPrefix: "/",
-  title: "louis.work",
-  subtitle: "I write about tech/life balance and other stuff I care about.",
+  title: "Screen & Times",
+  subtitle: "A blog about screen time.",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
@@ -16,7 +16,7 @@ module.exports = {
       path: "/",
     },
     {
-      label: "About me",
+      label: "About",
       path: "/pages/about",
     },
     {
@@ -25,18 +25,18 @@ module.exports = {
     },
   ],
   author: {
-    name: "louis.work",
+    name: "Screen & Times",
     photo: "/photo.jpg",
-    bio: "Tech addiction, life, etc.",
+    bio: "A blog about screen time.",
     contacts: {
       email: "",
       facebook: "",
       telegram: "",
       twitter: "",
-      github: "lgwb89",
+      github: "",
       rss: "",
       vkontakte: "",
-      linkedin: "louis-b-51458a4",
+      linkedin: "",
       instagram: "",
       line: "",
       gitlab: "",
