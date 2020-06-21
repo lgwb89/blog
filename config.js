@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: "Screen & Times",
-    photo: "/photo.jpg",
+    photo: "/photo.png",
     bio: "A blog about screen time.",
     contacts: {
       email: "",
