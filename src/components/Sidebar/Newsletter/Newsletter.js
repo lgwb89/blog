@@ -23,7 +23,6 @@ class Newsletter extends React.Component {
 
   handleSubmit = (event) => {
     const value = event.target.children[0].value
-    console.log(value)
 
     if (value) {
       fetch("/", {
