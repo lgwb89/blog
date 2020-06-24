@@ -15,7 +15,7 @@
   }
 
   &__home-button {
-    display: flex;
+    display: none;
     align-items: center;
     // max-width: 90px;
     height: $button-height;
@@ -53,8 +53,13 @@
     &__comments {
       padding: 0;
     }
+  }
+}
 
+@include breakpoint-lg {
+  .post {
     &__home-button {
+      display: flex;
       position: fixed;
       max-width: auto;
       margin: 0;
