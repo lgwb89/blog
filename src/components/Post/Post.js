@@ -17,8 +17,8 @@ type Props = {
 
 const Post = ({ post }: Props) => {
   const { html } = post
-  const { tagSlugs, slug } = post.fields
-  const { tags, title, date } = post.frontmatter
+  const { tagSlugs, slug, categorySlug } = post.fields
+  const { tags, title, date, category } = post.frontmatter
   const { author } = useSiteMetadata()
 
   return (
@@ -35,7 +35,12 @@ const Post = ({ post }: Props) => {
       </Link>
 
       <div className={styles["post__content"]}>
-        <Content body={html} title={title} />
+        <Content
+          body={html}
+          title={title}
+          category={category}
+          categorySlug={categorySlug}
+        />
       </div>
 
       <div className={styles["post__footer"]}>
