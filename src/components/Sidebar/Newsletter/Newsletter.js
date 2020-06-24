@@ -23,6 +23,7 @@ class Newsletter extends React.Component {
 
   handleSubmit = (event) => {
     const value = event.target.children[0].value
+    console.log(value)
 
     if (value) {
       fetch("/", {
@@ -59,7 +60,7 @@ class Newsletter extends React.Component {
         >
           <input
             type="email"
-            name="newsletter"
+            name="email"
             id="email"
             className={styles["newsletter__form-input"]}
             placeholder="Your email"
