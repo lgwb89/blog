@@ -1,0 +1,44 @@
+@import "../../../assets/scss/variables";
+@import "../../../assets/scss/mixins";
+
+.newsletter {
+  @include margin-bottom(1);
+  background: $color-gray-bg;
+  border-radius: $button-border-radius/4;
+  @include padding-equal(0.5);
+
+  &__title {
+    font-size: $typographic-base-font-size * 1.125;
+    font-weight: 600;
+    @include line-height(1.125);
+    @include margin(0, 0, 0, 0);
+    @include margin-bottom(0.5);
+  }
+
+  &__form {
+    display: flex;
+    justify-content: space-around;
+    &-input {
+      width: 100%;
+      @include padding-equal(0.25);
+      @include margin-bottom(0.5);
+      border: none;
+      border-radius: $button-border-radius/4;
+      height: $button-height;
+      box-sizing: border-box;
+    }
+    &-button {
+      width: 100%;
+      border: none;
+      background: $color-secondary;
+      color: $color-white;
+      @include padding-equal(0.25);
+      border-radius: $button-border-radius/4;
+      cursor: pointer;
+      font-size: $typographic-base-font-size;
+      &:hover {
+        background: darken($color-secondary, 5%);
+      }
+    }
+  }
+}
