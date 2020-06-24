@@ -48,16 +48,10 @@ class Newsletter extends React.Component {
       <div className={styles["newsletter"]}>
         <h4 className={styles["newsletter__title"]}>
           {!this.state.submitted
-            ? "Get new articles sen to you"
+            ? "Get new articles sent to you"
             : "Thanks for subscribing"}
         </h4>
-        <form
-          method="post"
-          netlify-honeypot="bot-field"
-          data-netlify="true"
-          name="newsletter"
-          onSubmit={this.handleSubmit}
-        >
+        <form onSubmit={this.handleSubmit}>
           <input
             type="email"
             name="email"
@@ -65,8 +59,6 @@ class Newsletter extends React.Component {
             className={styles["newsletter__form-input"]}
             placeholder="Your email"
           />
-          <input type="hidden" name="bot-field" />
-          <input type="hidden" name="newsletter" value="newsletter" />
           <button type="submit" className={styles["newsletter__form-button"]}>
             {!this.state.submitted ? "Subscribe" : "✔️"}
           </button>
