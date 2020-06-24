@@ -1,5 +1,5 @@
-@import '../../assets/scss/variables';
-@import '../../assets/scss/mixins';
+@import "../../assets/scss/variables";
+@import "../../assets/scss/mixins";
 
 .post {
   &__footer {
@@ -15,16 +15,18 @@
   }
 
   &__home-button {
-    display: block;
-    max-width: 90px;
+    display: flex;
+    align-items: center;
+    // max-width: 90px;
     height: $button-height;
-    padding: 0 24px;
+    padding: 0 20px 0 8px;
     line-height: $button-height;
     text-align: center;
     color: $color-base;
     border: 1px solid $color-gray-border;
     border-radius: $button-border-radius;
     font-size: $typographic-base-font-size;
+    font-family: $typographic-headline-font-family;
     font-weight: normal;
     margin-left: auto;
     margin-right: auto;
@@ -32,11 +34,14 @@
 
     &:hover,
     &:focus {
-      color: $color-primary;
+      color: $color-base;
+      background: lighten($color-gray-border, 2%);
     }
-
+    img {
+      padding-right: 16px;
+      margin: 0;
+    }
   }
-
 }
 
 @include breakpoint-md {
@@ -54,9 +59,7 @@
       max-width: auto;
       margin: 0;
       top: 30px;
-      left: 30px
+      left: 30px;
     }
-
   }
-
 }
