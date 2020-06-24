@@ -45,6 +45,7 @@ class Newsletter extends React.Component {
             placeholder="Your email"
           />
           <input type="hidden" name="bot-field" />
+          <input type="hidden" name="newsletter" value="newsletter" />
           <button type="submit" className={styles["newsletter__form-button"]}>
             {!this.state.submitted ? "Subscribe" : "✔️"}
           </button>
