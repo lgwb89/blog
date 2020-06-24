@@ -16,7 +16,7 @@ tags:
 ---
 Last week I deleted WhatsApp. Here, I explain why, and why you also might want to.
 
-## I wanted to use my phone less
+## 1. I wanted to use my phone less
 
 WhatsApp was the biggest reason I spent time on my phone. According to Screen Time, WhatsApp was always over half of time spent and pick ups on my phone.
 
@@ -28,7 +28,7 @@ Even worse: WhatsApp acted as a gateway drug. It got me to pick up my phone, and
 
 I felt my phone addiction wasn't going to change unless I did something about WhatsApp. Now that I've deleted WhatsApp, I spend far less time on my phone and am becoming less psychologically dependent on it.
 
-## I stopped thinking WhatsApp is normal
+## 2. I stopped thinking WhatsApp is normal
 
 [Paul Graham writes:](http://www.paulgraham.com/addiction.html)
 
@@ -36,18 +36,18 @@ I felt my phone addiction wasn't going to change unless I did something about Wh
 
 I moved to thinking about WhatsApp in the second sense of normal.
 
-I don't think WhatsApp 'works best', for myself, for most of its users, or for society. I don't think it's normal for your life to be shaped by a messaging app.
+I don't think WhatsApp works best: for myself or most of its users.
 
-I don't think it's normal to be:
+That's because I don't think it's normal to be:
 
 - Hooked: constantly checking your phone for new messages
 - Occupied: spending hours a day messaging
 - Interrupted: by notifications from whatever you're doing
 - Distracted: from conversations with people who are with you by words from people who are not
 
-Life without WhatsApp is great. I still speak to the people I love and have great relationships with them. It feels normal to me.
+Life without WhatsApp is still great. I still speak to the people I love and have great relationships with them. It feels normal.
 
-## Using WhatsApp on my desktop only wasn't an option
+## 3. Using WhatsApp on my desktop only wasn't an option
 
 WhatsApp has one crucial difference vs. messaging tools like Telegram or Facebook Messenger: it has to be run on a phone.
 
@@ -64,11 +64,11 @@ My desktop is a device that:
 
 So it made sense to delete WhatsApp and move to a messaging app which can be used on desktop only. For me, that's Telegram.
 
-## I wanted to reset chats to zero
+## 4. I wanted to reset chats to zero
 
 One of the reasons I was addicted to WhatsApp was the high quantity of chats I had going on (meaning an equally high volume of messages).
 
-I wanted to reset this quantity to zero, and build back up again from scratch (on another messaging app which could be used on desktop only). That way, I'd once again be in control of who I was in touch with, and I wouldn't have a high volume of messages to keep me hooked.
+I wanted to reset this quantity to zero, and build back up again from scratch. That way, I'd once again be in control of who I was in touch with, and I wouldn't have a high volume of messages to keep me hooked.
 
 I was in touch with people in two types of chats: groups and one-to-ones.
 
@@ -112,20 +112,24 @@ Here are the questions these people need to think about:
 
 So deleting WhatsApp felt like a weight off my shoulders. I was finally out! Those annoying groups - gone forever! I felt in control of my digital life again.
 
-## The upsides are massive
+## 5. The upsides are massive
 
-It's far too easy to think about what you lose from deleting WhatsApp vs. what you gain.
+It's easier to think about the downsides of deleting WhatsApp vs. the upsides.
 
-I will miss out on some messages that would have made me happy.
+Downsides:
 
-But on the other hand, I'll:
+- Harder to be in touch with some people
+- Miss out on messages that make you happy
+
+Upsides:
 
 - Get time back
 - Be more present
+- Miss out on messages that didn't make you happy
 - Be less anxious from not being hooked to my phone
 - Have higher quality communication from calling more
 
-For me, that was a good trade.
+For me, the upsides outweigh the downsides.
 
 ## WhatsApp? Not much, really
 
