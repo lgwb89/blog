@@ -10,16 +10,36 @@ type Props = {
   }[],
 }
 
+const encode = (data) => {
+  return Object.keys(data)
+    .map((key) => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+    .join("&")
+}
+
 class Newsletter extends React.Component {
   state = {
     submitted: false,
   }
 
   handleSubmit = (event) => {
+    const value = event.target.children[0].value
+
+    if (value) {
+      fetch("/", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: encode({
+          "form-name": "newsletter",
+          email: value,
+        }),
+      }).catch((error) => console.log("error"))
+      event.target.children[0].value = ""
+      this.setState({
+        submitted: true,
+      })
+    }
+
     event.preventDefault()
-    this.setState({
-      submitted: true,
-    })
   }
 
   render() {
