@@ -47,7 +47,7 @@ class Newsletter extends React.Component {
       <div className={styles["newsletter"]}>
         <h4 className={styles["newsletter__title"]}>
           {!this.state.submitted
-            ? "Get new articles sent to you"
+            ? "Get new articles sen to you"
             : "Thanks for subscribing"}
         </h4>
         <form
