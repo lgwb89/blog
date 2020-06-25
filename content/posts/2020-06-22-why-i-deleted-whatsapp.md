@@ -3,7 +3,7 @@ template: post
 title: Why I deleted WhatsApp
 slug: why-i-deleted-whatsapp
 draft: false
-date: 2020-06-22T14:31:21.557Z
+date: 2020-06-25T15:10:39.190Z
 description: Last week I deleted WhatsApp. Here, I explain why, and why you also
   might want to.
 category: Phone Addiction
