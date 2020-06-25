@@ -140,9 +140,9 @@ This is the easiest part! Take a deep breath and delete the app off your phone. 
 
 ## 9. Be ready for negativity afterwards, and meet it positively
 
-Deleting WhatsApp will probably not be a popular decision.
+Deleting WhatsApp will probably not be popular with your friends and family.
 
-One of the things I found difficult after deleting WhatsApp was the lack of support from some friends and family, as well as active disappointment and sadness.
+One of the things I found difficult after deleting WhatsApp was the lack of support from some people I'm close to, as well as active disappointment and sadness.
 
 People really didn't get why. Some might have felt I didn't want to talk to them any more.
 
