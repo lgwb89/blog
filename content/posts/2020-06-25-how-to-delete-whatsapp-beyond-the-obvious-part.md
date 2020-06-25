@@ -44,9 +44,7 @@ For iOS, I ended up using a tool called [iMazing](https://imazing.com/) (cost me
 
 (I found a similar tool that also works on Android called Dr Fone, but I am not sure it lets you save down messages from Android. That's because the [guide for their iOS WhatsApp tool](https://drfone.wondershare.com/guide/ios-whatsapp-transfer-backup-and-restore.html) shows it accessing WhatsApp messages and allowing export, whereas the [guide for their Android WhatsApp tool](https://drfone.wondershare.com/guide/android-whatsapp-transfer-backup-and-restore.html) doesn't.)
 
-I could have greatly reduced the amount of time this took me by only exporting chats with people I care about.
-
-(For some reason I couldn't bring myself to do this - I might have to accept that I'm a [data hoarder](https://www.reddit.com/r/DataHoarder/).)
+You can greatly reduce the amount of time this takes you by only exporting chats with people you care about.
 
 Whichever export option you go for, make sure you're also exporting attachments like voice notes and pictures, if you want to have a record of them.
 
