@@ -31,7 +31,7 @@ const Post = ({ post }: Props) => {
           height="25"
           alt={author.name}
         />
-        Screen & Times
+        {author.name}
       </Link>
 
       <div className={styles["post__content"]}>

@@ -3,7 +3,7 @@
 module.exports = {
   url: "https://screentim.es",
   pathPrefix: "/",
-  title: "Screen & Times",
+  title: "Screentimes",
   subtitle: "A blog about screen time.",
   copyright: "© All rights reserved.",
   disqusShortname: "",
@@ -25,7 +25,7 @@ module.exports = {
     },
   ],
   author: {
-    name: "Screen & Times",
+    name: "Screentimes",
     photo: "/photo.png",
     bio: "A blog about screen time.",
     contacts: {
