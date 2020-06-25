@@ -12,7 +12,6 @@ tags:
   - WhatsApp
   - Phone addiction
   - Screen time
-  - ""
 ---
 I recently deleted WhatsApp and I was surprised by how difficult it was.
 
