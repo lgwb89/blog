@@ -40,10 +40,10 @@ I don't think WhatsApp works best: for myself or most of its users.
 
 That's because I don't think it's normal to be:
 
-- Hooked: constantly checking your phone for new messages
-- Occupied: spending hours a day messaging
-- Interrupted: by notifications from whatever you're doing
-- Distracted: from conversations with people who are with you by words from people who are not
+* Hooked: constantly checking your phone for new messages
+* Occupied: spending hours a day messaging
+* Interrupted: by notifications from whatever you're doing
+* Distracted: from conversations with people who are with you by words from people who are not
 
 Life without WhatsApp is still great. I still speak to the people I love and have great relationships with them. It feels normal.
 
@@ -59,8 +59,8 @@ That was a problem for me, since I find it much easier to control time spent on 
 
 My desktop is a device that:
 
-- is not always with me
-- I'm not addicted to
+* is not always with me
+* I'm not addicted to
 
 So it made sense to delete WhatsApp and move to a messaging app which can be used on desktop only. For me, that's Telegram.
 
@@ -88,9 +88,9 @@ Resetting one-to-ones to zero was not an obvious win.
 
 I felt genuine sadness that I might communicate less with some people I love. But three things kept me going:
 
-- I reminded myself that I'd always find ways to be in touch with those people, since I care about them. (This also helped me get over my fear of leaving family groups, which are an exception to some of my arguments about groups.)
-- I now call people I love more than I ever would have before. This is good because I think calling is higher quality than messaging. It's more personal and makes me feel happier. That's particularly true in the case of some people I love who are weird over messaging (they write with a different personality to their in-person one).
-- I remember from not having WhatsApp that I still had great relationships with the people I love, even if I was in touch a little less. Absence makes the heart grow fonder. It's not necessarily normal or desirable to be in touch 24/7 with your friends and family.
+* I reminded myself that I'd always find ways to be in touch with those people, since I care about them. (This also helped me get over my fear of leaving family groups, which are an exception to some of my arguments about groups.)
+* I now call people I love more than I ever would have before. This is good because I think calling is higher quality than messaging. It's more personal and makes me feel happier. That's particularly true in the case of some people I love who are weird over messaging (they write with a different personality to their in-person one).
+* I remember from not having WhatsApp that I still had great relationships with the people I love, even if I was in touch a little less. Absence makes the heart grow fonder. It's not necessarily normal or desirable to be in touch 24/7 with your friends and family.
 
 ### Crap and gold
 
@@ -102,11 +102,11 @@ There's loads of crap you hate (e.g. irrelevant groups), and there's loads of go
 
 You're too sad to lose the gold, so you keep the crap.
 
-Here are the questions these people need to think about:
+Here are the questions you need to think about:
 
-- How golden is the gold, really?
-- Is there another kind of gold waiting for you in a life without WhatsApp?
-- Is the gold worth the crap?
+* How golden is the gold, really?
+* Is there another kind of gold waiting for you in a life without WhatsApp?
+* Is the gold worth the crap?
 
 ### Reset done
 
@@ -118,16 +118,16 @@ It's easier to think about the downsides of deleting WhatsApp vs. the upsides.
 
 Downsides:
 
-- Harder to be in touch with some people
-- Miss out on messages that make you happy
+* Harder to be in touch with some people
+* Miss out on messages that make you happy
 
 Upsides:
 
-- Get time back
-- Be more present
-- Miss out on messages that didn't make you happy
-- Be less anxious from not being hooked to my phone
-- Have higher quality communication from calling more
+* Get time back
+* Be more present
+* Miss out on messages that didn't make you happy
+* Be less anxious from not being hooked to my phone
+* Have higher quality communication from calling more
 
 For me, the upsides outweigh the downsides.
 
@@ -135,8 +135,8 @@ For me, the upsides outweigh the downsides.
 
 To sum up:
 
-- I was addicted to my phone mostly because of WhatsApp
-- I stopped thinking WhatsApp is normal
-- I couldn't use WhatsApp on my desktop only
-- I wanted to get out of chats that weren't making me happy, like groups
-- I decided the upsides outweighed the downsides
+* I was addicted to my phone mostly because of WhatsApp
+* I stopped thinking WhatsApp is normal
+* I couldn't use WhatsApp on my desktop only
+* I wanted to get out of chats that weren't making me happy, like groups
+* I decided the upsides outweighed the downsides
