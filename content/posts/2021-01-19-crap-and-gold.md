@@ -2,7 +2,7 @@
 template: post
 title: Crap and gold
 slug: crap-and-gold
-draft: true
+draft: false
 date: 2021-01-19T12:23:25.469Z
 description: There's a lot of crap on the internet. But there's also a lot of gold.
 category: Variable rewards
